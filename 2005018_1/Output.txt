@@ -1,0 +1,20 @@
+Bank Created; MD, S1, S2, C1, C2, C3, C4, C5 created
+Student acccount for Alice created; Initial balance is 1000
+20000 deposited; Current balance is: 21000.0
+Invalid transaction. Current balance: 21000.0.
+Current balance is: 21000.0 ;Loan: 0.0
+Loan request successful, sent for approval.
+Transaction closed for Alice.
+Welcome, S1; There are loans pending for approval.
+Loan for Alice approved.
+You can't do this operation.
+Alice's current balance is: 21500.0; Loan: 500.0.
+You don't have permission to do this operation.
+Transaction closed for S1.
+Welcome, Alice.
+Current balance is: 21500.0 ;Loan: 500.0
+Transaction closed for Alice.
+One year passed.
+Welcome, Alice.
+Current balance is: 22525.0 ;Loan: 500.0
+Transaction closed for Alice.

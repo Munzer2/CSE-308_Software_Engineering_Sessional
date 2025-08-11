@@ -1,0 +1,7 @@
+mkdrive C
+cd C
+mkdir Music
+cd Music
+mkdir mp3
+touch rainbow.mp3 10
+list

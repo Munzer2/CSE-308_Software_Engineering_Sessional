@@ -1,0 +1,10 @@
+Create Munzer Saving 12000
+Query
+Request 400
+Close
+Open S1
+Approve loan
+Lookup Munzer
+INC
+Lookup Munzer
+Close
